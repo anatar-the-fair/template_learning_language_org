@@ -3,5 +3,7 @@
 This is not intended for public use; is minimal and not fully realized with
 features (which shouldn't be the priority for learning a language)
 
+Pull the repo then run `scripts/setup.sh` and it will create a few relevant dirs
+
 In assets/templates/assets/org-roam-templates.el you will find some
 org-roam-capture templates you can use in your emacs config.el
